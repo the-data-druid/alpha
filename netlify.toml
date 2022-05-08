@@ -1,5 +1,5 @@
 [build]
-  publish = "exampleSite/public"
+  publish = "https://guileless-fenglisu-1f64f8.netlify.app/public"
   command = "cd exampleSite && hugo --gc --themesDir ../.."
   
 [build.environment]
